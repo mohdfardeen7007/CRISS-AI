@@ -21,12 +21,19 @@
       "required": false,
       "value": "true"
     }, 
+    
     "OWNER_NUMBER": {
       "description": "enter your phone number",
-      "required": false,
+      "required": true,
       "value": "255687068672"
     },
 
+    "OWNER_NAME": {
+      "description": "enter your name",
+      "required": true,
+      "value": "Tds-Tanzania"
+    },
+    
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
       "required": false,

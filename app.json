@@ -21,6 +21,11 @@
       "required": false,
       "value": "true"
     }, 
+    "OWNER_NUMBER": {
+      "description": "enter your phone number",
+      "required": false,
+      "value": "255687068672"
+    },
 
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",

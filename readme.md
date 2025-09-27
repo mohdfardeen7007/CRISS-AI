@@ -30,8 +30,8 @@
 
 
 <p align="center">
-  <a href="https://www.crissvevo.co.tz">
-    <img title="FORK CRISS AI REPO" src="https://img.shields.io/badge/PROMOTE_YOUR_CHANNEL-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
+  <a href="https://whatsapp.com/channel/0029VbAhCy8EquiTSb5pMS3t">
+    <img title="FORK CRISS AI REPO" src="https://img.shields.io/badge/JOIN_OUR_CHANNEL-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
   </a>
   </p>
 

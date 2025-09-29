@@ -23,15 +23,28 @@
     }, 
     
     "OWNER_NUMBER": {
-      "description": "enter your phone number",
-      "required": true,
-      "value": "255687068672"
-    },
+      "description": "put the owner number for bot.",
+      "required": false,
+      "value": "255780863292"
+    }, 
 
     "OWNER_NAME": {
-      "description": "enter your name",
+      "description": "Type Bot Owner Name.",
+      "required": false,
+      "value": "ᴄʀɪss ᴠᴇᴠᴏ"
+  }, 
+
+     "DELETE_LINKS": {
+      "description": "remove links from group automatically without removing member",
+      "required": false,
+      "value": "true"
+    },
+
+    "ANTI_LINK": {
+      "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "Tds-Tanzania"
+      "value": "true"
+      
     },
     
     "AUTO_STATUS_REACT": {
